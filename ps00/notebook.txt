@@ -3,5 +3,5 @@ Date  Who       Start 	Stop  Interruptions Question TimeOnTask    Comments
 ==========================================committing to git: 9/4 09:46 ===================
 9/4   AW        09:51  09:57  0             5        6             Analysis and Solution Done
 ==========================================committing to git: 9/4 09:59 ===================
-9/4   AW        10:01  10:29  5             6                      Analysis, Learnt the terminology for quad equations. Time spent in writing the contract etc.
+9/4   AW        10:01  10:29  5             6       23              Analysis, Learnt the terminology for quad equations. Time spent in writing the contract etc.
 ==========================================committing to git: 9/4 10:31 ===================
