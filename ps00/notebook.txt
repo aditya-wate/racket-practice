@@ -1,0 +1,3 @@
+Date  Who       Start 	Stop  Interruptions Question TimeOnTask    Comments
+9/4   AW        09:44  09:46  0             1-4      2             Committed previous done problems to git (Ex 1-4)
+==========================================committing to git: 9/4 09:46 ===================
