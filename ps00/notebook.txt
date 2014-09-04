@@ -8,3 +8,23 @@ Date  Who       Start 	Stop  Interruptions Question TimeOnTask    Comments
 ==========================================committing to git: 9/4 10:31 ===================
 9/4   AW        10:47  10:51  0             7        4              Analysis and Solution done.
 ==========================================committing to git: 9/4 10:54 ===================
+9/4   AW        15:14  15:19  0             8        5              Analysis and Solution done.
+9/4   AW        15:38  16:04  15            9        24             Understanding the difference between remainder and modulo
+9/4   AW        16:10  16:21  0             9        11             Writing definition for even-num predicate
+9/4   AW        16:27  16:59  0            10        32             Writing definition for largest sum function. Testing takes time.
+9/4   AW        17:00  16:10  0            10        10             Test case failed for two equal numbers. Changing the function
+==========================================committing to git: 9/4 17:15 ===================
+
+Total Time On Task Q5 (minutes)                  6
+Total Time On Task Q6 (minutes)                  23 
+Total Time On Task Q7 (minutes)                  4 
+Total Time On Task Q8 (minutes)                  5 
+Total Time On Task Q9 (minutes)                  35 
+Total Time On Task Q10(minutes)                  42 
+TOTQ5 (hours and tenths)                         0.1 
+TOTQ6 (hours and tenths)                         0.383
+TOTQ7 (hours and tenths)                         0.06
+TOTQ8 (hours and tenths)                         0.08
+TOTQ9 (hours and tenths)                         0.5
+TOTQ10 (hours and tenths)                        0.7
+

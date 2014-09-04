@@ -9,7 +9,7 @@
 ;Definition of quadratic-root
 (define (quadratic-root a b c)
   (/ (+ (* -1 b)
-        (sqrt (- (* b b) 
+        (sqrt (- (sqr b) 
                  (* 4 a c)))) 
      (* 2 a)))
 
