@@ -3,7 +3,7 @@
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname Ex_6_QuadraticRoots_Definition) (read-case-sensitive #t) (teachpacks ((lib "image.rkt" "teachpack" "2htdp"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "image.rkt" "teachpack" "2htdp")))))
 ; Contract,purpose statement
 ; quadratic-root : Number Number Number -> Number
-; GIVEN: Co-efficients of the equation (ax^2 + bx + c = 0)
+; GIVEN: Co-efficients a,b and c of the equation (ax^2 + bx + c = 0)
 ; RETURNS: root of equation with positive discriminant
 
 ;Definition of quadratic-root
