@@ -1,0 +1,11 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname Ex_4_Tip_Definition) (read-case-sensitive #t) (teachpacks ((lib "image.rkt" "teachpack" "2htdp"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "image.rkt" "teachpack" "2htdp")))))
+(define (tip amount percentage)
+  (cond
+    [(and (< amount -1) 
+          (and (> percentage 0.0) 
+               (< percentage 1.0)))(* amount percentage)]
+    [else "Enter a valid Percent(0.0-1.0)/Amount"]))
+
+(tip 10 0.15)
