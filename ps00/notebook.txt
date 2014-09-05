@@ -28,3 +28,13 @@ TOTQ8 (hours and tenths)                         0.08
 TOTQ9 (hours and tenths)                         0.5
 TOTQ10 (hours and tenths)                        0.7
 
+
+;Although I have completed the laptop setup even before there was an announcement of this assignment. I am approximating time of some tasks and redoing the tasks in some cases.
+
+Date  Who       Start 	Stop  Interruptions Question TimeOnTask    Comments
+8/20  AW        --:--   --:--  0            Setup 1      3         Initiated CCIS Account creation.
+8/20  AW        --:--   --:--  0            Setup 3      5         Creation and Activation of Piazza Account
+8/20  AW        --:--   --:--  0            Setup 4      1         Successfully connected to NUWave
+8/20  AW        04:45   04:50  0            Setup 5      5         Downloading Dr Racket
+8/20  AW        04:51   04:59  0            Setup 5      8         Installed Dr Racket
+8/23  AW        --:--   --:--  0            Setup 6      5         Creation and Activation of Git-Hub Account
